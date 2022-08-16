@@ -22,5 +22,6 @@ public class AutoTestTask1 {
 		WebElement txtpri = driver.findElement(By.id("demo1"));
 		String text = txtpri.getText();
 		System.out.println(text);
+		System.out.println("Deva");
 
 }}
