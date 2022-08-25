@@ -23,5 +23,6 @@ public class AutoTestTask1 {
 		String text = txtpri.getText();
 		System.out.println(text);
 		System.out.println("Deva");
-
+		System.out.println("Ram");
+		
 }}
